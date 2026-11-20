@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GNG",
+    "A A",
+    "NIN"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "A": {
+      "item": "citizenfonderie:four_forgeron_apprenti"
+    }
+  },
+  "result": {
+    "id": "citizenfonderie:four_maitre_forgeron",
+    "count": 1
+  }
+}

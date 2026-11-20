@@ -1,0 +1,9 @@
+{
+  "block.citizenfonderie.four_forgeron_simple": "Simple Smith Furnace",
+  "block.citizenfonderie.four_forgeron_apprenti": "Apprentice Smith Furnace",
+  "block.citizenfonderie.four_maitre_forgeron": "Master Smith Furnace",
+  "tooltip.citizenfonderie.taille": "Takes %s blocks (%s)",
+  "tooltip.citizenfonderie.emplacements": "Smelts %s different ores at once",
+  "message.citizenfonderie.pas_de_place": "Not enough room: needs a free %s space",
+  "gui.citizenfonderie.info": "%s at once"
+}

@@ -1,0 +1,9 @@
+{
+  "block.citizenfonderie.four_forgeron_simple": "Four de forgeron simple",
+  "block.citizenfonderie.four_forgeron_apprenti": "Four de forgeron apprenti",
+  "block.citizenfonderie.four_maitre_forgeron": "Four de maître forgeron",
+  "tooltip.citizenfonderie.taille": "Occupe %s blocs (%s)",
+  "tooltip.citizenfonderie.emplacements": "Fond %s minerais différents à la fois",
+  "message.citizenfonderie.pas_de_place": "Pas assez de place : il faut un espace libre de %s blocs",
+  "gui.citizenfonderie.info": "%s fontes à la fois"
+}

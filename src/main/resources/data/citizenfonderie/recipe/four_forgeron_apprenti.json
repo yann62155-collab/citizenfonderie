@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BIB",
+    "S S",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bricks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "citizenfonderie:four_forgeron_simple"
+    }
+  },
+  "result": {
+    "id": "citizenfonderie:four_forgeron_apprenti",
+    "count": 1
+  }
+}

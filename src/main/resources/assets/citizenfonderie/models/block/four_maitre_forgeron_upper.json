@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "citizenfonderie:block/four_maitre_forgeron_side_upper",
+    "side": "citizenfonderie:block/four_maitre_forgeron_side_upper",
+    "top": "citizenfonderie:block/four_maitre_forgeron_top"
+  }
+}

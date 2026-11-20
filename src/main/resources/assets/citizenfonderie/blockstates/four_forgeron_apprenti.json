@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "facing=north,lit=false,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth"
+    },
+    "facing=north,lit=true,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit"
+    },
+    "facing=north,lit=false,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth"
+    },
+    "facing=north,lit=true,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit"
+    },
+    "facing=north,lit=false,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney"
+    },
+    "facing=north,lit=true,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney"
+    },
+    "facing=north,lit=false,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper"
+    },
+    "facing=north,lit=true,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper"
+    },
+    "facing=north,lit=false,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth"
+    },
+    "facing=north,lit=true,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit"
+    },
+    "facing=north,lit=false,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth"
+    },
+    "facing=north,lit=true,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit"
+    },
+    "facing=north,lit=false,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth"
+    },
+    "facing=north,lit=true,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit"
+    },
+    "facing=north,lit=false,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth"
+    },
+    "facing=north,lit=true,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit"
+    },
+    "facing=east,lit=false,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 90
+    },
+    "facing=east,lit=true,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 90
+    },
+    "facing=east,lit=false,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 90
+    },
+    "facing=east,lit=true,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 90
+    },
+    "facing=east,lit=false,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney",
+      "y": 90
+    },
+    "facing=east,lit=true,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney",
+      "y": 90
+    },
+    "facing=east,lit=false,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper",
+      "y": 90
+    },
+    "facing=east,lit=true,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper",
+      "y": 90
+    },
+    "facing=east,lit=false,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 90
+    },
+    "facing=east,lit=true,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 90
+    },
+    "facing=east,lit=false,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 90
+    },
+    "facing=east,lit=true,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 90
+    },
+    "facing=east,lit=false,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 90
+    },
+    "facing=east,lit=true,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 90
+    },
+    "facing=east,lit=false,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 90
+    },
+    "facing=east,lit=true,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 90
+    },
+    "facing=south,lit=false,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 180
+    },
+    "facing=south,lit=true,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 180
+    },
+    "facing=south,lit=false,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 180
+    },
+    "facing=south,lit=true,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 180
+    },
+    "facing=south,lit=false,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney",
+      "y": 180
+    },
+    "facing=south,lit=true,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney",
+      "y": 180
+    },
+    "facing=south,lit=false,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper",
+      "y": 180
+    },
+    "facing=south,lit=true,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper",
+      "y": 180
+    },
+    "facing=south,lit=false,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 180
+    },
+    "facing=south,lit=true,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 180
+    },
+    "facing=south,lit=false,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 180
+    },
+    "facing=south,lit=true,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 180
+    },
+    "facing=south,lit=false,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 180
+    },
+    "facing=south,lit=true,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 180
+    },
+    "facing=south,lit=false,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 180
+    },
+    "facing=south,lit=true,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 180
+    },
+    "facing=west,lit=false,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 270
+    },
+    "facing=west,lit=true,part=0": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 270
+    },
+    "facing=west,lit=false,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 270
+    },
+    "facing=west,lit=true,part=1": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 270
+    },
+    "facing=west,lit=false,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney",
+      "y": 270
+    },
+    "facing=west,lit=true,part=2": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_chimney",
+      "y": 270
+    },
+    "facing=west,lit=false,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper",
+      "y": 270
+    },
+    "facing=west,lit=true,part=3": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_upper",
+      "y": 270
+    },
+    "facing=west,lit=false,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 270
+    },
+    "facing=west,lit=true,part=4": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 270
+    },
+    "facing=west,lit=false,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 270
+    },
+    "facing=west,lit=true,part=5": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 270
+    },
+    "facing=west,lit=false,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 270
+    },
+    "facing=west,lit=true,part=6": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 270
+    },
+    "facing=west,lit=false,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth",
+      "y": 270
+    },
+    "facing=west,lit=true,part=7": {
+      "model": "citizenfonderie:block/four_forgeron_apprenti_mouth_lit",
+      "y": 270
+    }
+  }
+}
