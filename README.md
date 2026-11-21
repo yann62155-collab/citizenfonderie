@@ -59,7 +59,7 @@ La liste des « minerais » est le tag `citizenfonderie:minerais` (modifiable pa
 ```
 gradlew build
 ```
-Le JAR est dans `build/libs/citizenfonderie-1.0.0.jar`. À mettre **côté serveur et côté joueurs**
+Le JAR est dans `build/libs/citizenfonderie-1.1.0.jar`. À mettre **côté serveur et côté joueurs**
 (il y a des blocs et un GUI).
 
 Si Gradle ne trouve pas le plugin `net.neoforged.moddev` version `2.0.78`, remplace ce numéro dans
