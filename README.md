@@ -64,3 +64,19 @@ Le JAR est dans `build/libs/citizenfonderie-1.0.0.jar`. À mettre **côté serve
 
 Si Gradle ne trouve pas le plugin `net.neoforged.moddev` version `2.0.78`, remplace ce numéro dans
 `build.gradle` par celui qui marche dans tes autres mods.
+
+## Équipement de samouraï en jade
+
+Se forge avec le **Lingot de Jade** de Citizen Guilds (le minerai de jade ne s'obtient que dans les donjons).
+Le minerai de jade se fond maintenant au **four de forgeron** (les fours vanilla le refusent).
+Les recettes ne se chargent que si Citizen Guilds est installé.
+
+| Objet | Recette (J = lingot de jade, G = lingot d'or, S = bâton) | Stats |
+|---|---|---|
+| Katana de jade | `  J` / `GJ ` / `S  ` | 8 dégâts, vitesse 1,8, 2300 utilisations |
+| Kabuto de jade (casque 3D de samouraï) | `JGJ` / `J J` | 3 armure |
+| Plastron de samouraï en jade | `J J` / `JJJ` / `JJJ` | 8 armure |
+| Jambières de samouraï en jade | `JJJ` / `J J` / `J J` | 6 armure |
+| Bottes de samouraï en jade | `J J` / `J J` | 3 armure |
+
+Armure : robustesse 3 par pièce, résiste au feu et à la lave (comme la netherite).

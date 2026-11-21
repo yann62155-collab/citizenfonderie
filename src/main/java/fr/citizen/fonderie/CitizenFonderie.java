@@ -2,6 +2,7 @@ package fr.citizen.fonderie;
 
 import fr.citizen.fonderie.block.ForgeFurnaceBlock;
 import fr.citizen.fonderie.block.ForgeFurnaceBlockEntity;
+import fr.citizen.fonderie.jade.JadeItems;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.neoforged.bus.api.IEventBus;
@@ -18,6 +19,7 @@ public class CitizenFonderie {
 
     public CitizenFonderie(IEventBus modBus, ModContainer container) {
         ModRegistry.register(modBus);
+        JadeItems.register(modBus);
         container.registerConfig(ModConfig.Type.COMMON, Config.SPEC, "citizenfonderie-common.toml");
         modBus.addListener(this::creativeTabs);
         modBus.addListener(this::capabilities);
@@ -28,6 +30,13 @@ public class CitizenFonderie {
             event.accept(ModRegistry.FOUR_SIMPLE_ITEM.get());
             event.accept(ModRegistry.FOUR_APPRENTI_ITEM.get());
             event.accept(ModRegistry.FOUR_MAITRE_ITEM.get());
+        }
+        if (event.getTabKey() == CreativeModeTabs.COMBAT) {
+            event.accept(JadeItems.KATANA.get());
+            event.accept(JadeItems.KABUTO.get());
+            event.accept(JadeItems.PLASTRON.get());
+            event.accept(JadeItems.JAMBIERES.get());
+            event.accept(JadeItems.BOTTES.get());
         }
     }
 

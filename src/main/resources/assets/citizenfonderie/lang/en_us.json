@@ -5,5 +5,10 @@
   "tooltip.citizenfonderie.taille": "Takes %s blocks (%s)",
   "tooltip.citizenfonderie.emplacements": "Smelts %s different ores at once",
   "message.citizenfonderie.pas_de_place": "Not enough room: needs a free %s space",
-  "gui.citizenfonderie.info": "%s at once"
+  "gui.citizenfonderie.info": "%s at once",
+  "item.citizenfonderie.katana_jade": "Jade Katana",
+  "item.citizenfonderie.kabuto_jade": "Jade Kabuto",
+  "item.citizenfonderie.plastron_jade": "Jade Samurai Chestplate",
+  "item.citizenfonderie.jambieres_jade": "Jade Samurai Leggings",
+  "item.citizenfonderie.bottes_jade": "Jade Samurai Boots"
 }

@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "citizenfonderie:item/katana_jade_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "citizenfonderie:item/katana_jade_icon"
+    },
+    "fixed": {
+      "parent": "citizenfonderie:item/katana_jade_icon"
+    }
+  }
+}

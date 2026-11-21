@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "citizenguilds"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "J J",
+    "J J"
+  ],
+  "key": {
+    "J": {
+      "tag": "citizenfonderie:lingots_jade"
+    }
+  },
+  "result": {
+    "id": "citizenfonderie:bottes_jade",
+    "count": 1
+  }
+}

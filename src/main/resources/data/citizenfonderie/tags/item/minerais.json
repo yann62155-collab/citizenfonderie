@@ -8,6 +8,10 @@
     {
       "id": "#c:raw_materials",
       "required": false
+    },
+    {
+      "id": "citizenguilds:raw_jade",
+      "required": false
     }
   ]
 }

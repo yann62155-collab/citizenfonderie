@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "citizenguilds"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  J",
+    "GJ ",
+    "S  "
+  ],
+  "key": {
+    "J": {
+      "tag": "citizenfonderie:lingots_jade"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "citizenfonderie:katana_jade",
+    "count": 1
+  }
+}
